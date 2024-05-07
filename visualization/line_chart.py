@@ -24,4 +24,4 @@ plt.grid(True)
 
 plt.legend()
 
-plt.savefig('/home/moieaso/programming/mt/mt4/Validation_ppl_line_chart.png')
+plt.savefig('Validation_ppl_line_chart.png')
